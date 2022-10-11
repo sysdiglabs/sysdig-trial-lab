@@ -1,0 +1,3 @@
+* Explain benefits (what is being used vs what is available)
+* How it works (container image scanning and syscalls)
+* profile workloads, the details of which packages get used will show up in about [12 hours](https://docs.sysdig.com/en/docs/sysdig-secure/vulnerabilities/runtime/#understanding-the-in-use-column) after being deployed and will update once per day https://docs.sysdig.com/en/docs/sysdig-secure/vulnerabilities/#runtime

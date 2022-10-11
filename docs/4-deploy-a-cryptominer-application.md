@@ -1,0 +1,1 @@
+Basically this one https://github.com/draios/scratch/tree/main/ddelorenzi/miner-ml 

@@ -21,9 +21,14 @@ The objective of this document is to provide instructions (automated ish) to get
 
 Then:
 
+* How to create scanning policies
 * How to perform a vulnerability scanner against a container image
 * How to create runtime policies and rules
-* ...
+* How to trigger alerts based on the policies/rules
+* Enabling rapid response
+* Machine Learning detection and response
+* Drift detection
+* Risk Spotlight
 
 # Environment
 
@@ -43,6 +48,12 @@ In order to have a frictionless environment, a new Kubernetes cluster will be de
 * [2 - Deploy Sysdig Agent](docs/2-deploy-sysdig-agent.md)
 * [3 - Deploy a vulnerable application](docs/3-deploy-a-vulnerable-application.md)
 * [4 - Deploy a cryptominer application](docs/4-deploy-a-cryptominer-application.md)
-* [5 - Perform a vulnerability scan](docs/5-perform-a-vulnerability-scan.md)
-* [6 - Create runtime policies and rules](docs/6-create-runtime-policies-and-rules.md)
+* [5 - Creating scanning policies](docs/5-creating-scanning-policies.md)
+* [6 - Perform a vulnerability scan](docs/6-perform-a-vulnerability-scan.md)
+* [7 - Create runtime policies and rules](docs/7-create-runtime-policies-and-rules.md)
+* [8 - Trigger alerts based on policies/rules](docs/8-trigger-alerts-based-on-policies-rules.md)
+* [9 - Enabling rapid response](docs/9-enabling-rapid-response.md)
+* [10 - Machine Learning detection and response](docs/10-machine-learning-detection-and-response.md)
+* [11 - Drift detection](docs/11-drift-detection.md)
+* [12 - Risk Spotlight](docs/12-risk-spotlight.md)
 * [99 - Tips and tricks](docs/99-tips-and-tricks.md)
